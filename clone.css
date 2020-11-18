@@ -1,0 +1,357 @@
+body{
+    background-color:#fafafa;
+    margin: 0;
+
+}
+.container {
+    display: flex;
+    margin-left: 350px;
+
+}
+.image{
+    
+    width: 340px;
+    height: 550px;
+    margin-top: 50px;
+
+}
+.firstbox{
+    background-color:white;
+    height: 330px;
+    width: 315px;
+    margin-top: 87px;
+    margin-left: 20px;
+    
+    /* margin-bottom: 25px; */
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+
+}
+.secondbox{
+    background-color:white;
+    height: 50px;
+    width: 315px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.parah{
+    font-size:13px ;
+}
+.app{
+    text-align: center;
+    font-size: 15px;
+}
+.no-decoration{
+    text-decoration: none;
+}
+.Sign-up{
+    text-decoration: none;
+    color: #0095f6;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+.appimage{
+    width: 136px;
+    height: 40px;
+    margin-left: 5px;
+}
+.n{
+    margin-left: 30px;
+}
+.instagram{
+    margin-top: 18px;
+    margin-bottom: 30px;
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;text-align: center;
+}
+.box{
+    width: 231px;
+    height: 22px;
+    background-color: #fafafa;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    padding: 7px;
+    border-radius: 3px;
+    margin-left: 33px;
+}
+.m{
+    margin-top: 5px;
+
+}
+.login{
+    width: 247px;
+    height: 25px;
+    border-radius: 3px;
+    background-color: #0095f6;
+    border: white;
+    color: white;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 33px;
+
+}
+.or{
+    color: #8e8e8e;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 150px;
+    position: relative;
+}
+.or::before{content:"";
+    background-color: #dbdbdb;
+    height: 2px;
+    width: 100px;
+    display: block;
+    top: 50%;
+    right: 110%;
+    position: absolute;
+}
+.or::after{content:"";
+    background-color: #dbdbdb;
+    height: 2px;
+    width: 100px;
+    display: block;
+    top: 50%;
+    left: 20%;
+    position: absolute;
+}
+.fa{
+    color: #385185;
+    margin-left: 89px;
+    
+}
+
+
+.Log{
+    color: #385185;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.Forgot-password{
+    color: #00376b;
+    margin-left: 120px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 18px;
+}
+footer{
+    text-decoration: none;
+}
+.foot{
+    margin-top: 90px;
+    text-decoration: none;
+    margin-left: 250px;
+}
+.feet{
+    text-decoration: none;
+    color: #00376b;
+    margin-left: 4px;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+.copywrite{
+    
+    color: #8e8e8e;
+    font-size: 11px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+.copywrite1{
+    margin-left: 190px;
+    color: #8e8e8e;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+ /* forgot password page  */
+.insta{
+     
+    height: 50px;
+    background-color: white;border: 1px solid rgba(var(--b6a,219,219,219),1);
+
+    
+}
+.inst{margin: 0px;
+    margin-left: 340px;
+    font-size: 25px;
+    font-family: 'Satisfy', cursive;
+    height: 50px;
+    background-color: white;
+    border: 2px;
+
+}
+.conta{
+    margin-left: 527px
+}
+ 
+ .first{
+    background-color: white;
+    height: 430px;
+    width: 349px;
+    margin-top: 60px;
+    ;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-radius: 3px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+.second{
+    background-color:#f6f6f6;
+    height: 40px;
+    width: 349px;
+    
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-radius: 3px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.no-decoration{
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    color: #262626;
+
+   
+}
+.yes{
+    margin-top: 7px;
+}
+
+
+.thirdline{
+    color: #8e8e8e;
+    font-size: 12px;
+    margin-left: 20px;
+}
+.box1{
+    width: 231px;
+    height: 22px;
+    background-color: #fafafa;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    padding: 7px;
+    border-radius: 3px;
+    margin-left: 0px;
+
+}
+.logo1{
+    margin-left: 0px;
+    height: 96px;
+    width: 96x;
+    margin-top: 17px;
+}
+.login1{
+    width: 247px;
+    height: 25px;
+    border-radius: 3px;
+    background-color: #0095f6;
+    border: white;
+    color: white;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-left: 0px;
+
+}
+.or1{
+    color: #8e8e8e;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 0px;
+    position: relative;
+}
+.or1::before{content:"";
+    background-color: #dbdbdb;
+    height: 1px;
+    width: 100px;
+    display: block;
+    top: 50%;
+    right: 57%;
+    position: absolute;
+}
+.or1::after{content:"";
+    background-color: #dbdbdb;
+    height: 1px;
+    width: 100px;
+    display: block;
+    top: 50%;
+    left: 57%;
+    position: absolute;
+}
+
+/* media query for forgot page */
+@media screen and (max-width: 992px) {
+    .conta{
+        margin-left: 440px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .conta{
+        margin-left: 300px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .conta{
+        margin-left: 200px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .conta{
+        margin-left: 200px;
+    }
+    .foot{
+        margin-top: 90px;
+        text-decoration: none;
+        margin-left: 180px;
+    }
+}
+@media screen and (max-width: 630px) {
+    .conta{
+        margin-left: 100px;
+    }
+    .foot{
+        margin-top: 90px;
+        text-decoration: none;
+        margin-left: 180px;
+    }
+}
+@media screen and (max-width: 500px) {
+    .conta{
+        margin-left: 70px;
+    }
+    .foot{
+        margin-top: 90px;
+        text-decoration: none;
+        margin-left: 70px;
+    }
+    .gh{
+        margin-left: 100px;
+    }
+}
+
+/* @media screen and (max-width: 800px) {
+    .conta{
+        margin-left: 70px;
+    }
+    .foot{
+        margin-top: 90px;
+        text-decoration: none;
+        margin-left: 0px;
+    }
+    .gh{
+        margin-left: 140px;
+    }
+
+} */
